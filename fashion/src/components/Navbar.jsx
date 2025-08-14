@@ -5,8 +5,8 @@ const Navbar = () => {
     return(
         <nav className="navbar">
             <div className="logo">
-                <span className="brand"> CLOSET </span>
-                <span className="accent">CONFETTI</span>
+                <span className="brand"> Haute  </span>
+                <span className="accent">Threads</span>
             </div>
             <ul className="nav-links">
                 <li>Home</li>
@@ -14,7 +14,7 @@ const Navbar = () => {
                     <span className="dropbtn">Categories</span>
                     <div className="dropdown-content"> 
                         <a> Skincare</a>
-                        <a>Clothes</a>
+                        <a>Bags</a>
                         <a>Makeup</a>
                         <a>Accessories</a>
                     </div>
