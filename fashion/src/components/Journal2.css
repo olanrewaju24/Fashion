@@ -1,5 +1,6 @@
 .flex {
     align-items: center;
+    background-color: white;
 }
 .flex-container {
     display: flex;
@@ -18,6 +19,7 @@
   margin-bottom: 1rem;
   text-align: center;
   color: black;
+  background-color: #faf9f8;
   
 }
 
@@ -29,7 +31,7 @@
 }
 
 .view-more-btn {
-  background-color: #630835; /* Fuchsia */
+  background-color: #630835; 
   color: white;
   border: none;
   padding: 10px 22px;

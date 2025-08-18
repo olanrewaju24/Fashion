@@ -31,7 +31,6 @@ const Journal2 = () => {
         <div className="flexbox">
              <h1 className='journal-heading'>Best sellers/ New Arrivals</h1>
     <div className="flex-container">
-        
       {posts.map((item) => (
         <div key={item.id} className="journal-item">
           <img src={item.image} alt={item.title} />
