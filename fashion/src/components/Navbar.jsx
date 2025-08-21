@@ -1,7 +1,10 @@
 import { Link } from "react-router-dom";
 import "./Navbar.css";
+import { useContext } from "react";
+import { CartContext } from "../Features/ContextProvider";
 
 const Navbar = () => {
+   const { cart } = useContext(CartContext);
   return (
     <nav className="navbar">
       <div className="logo">
@@ -23,11 +26,16 @@ const Navbar = () => {
             <Link to="/categories/bags">Bags</Link>
             <Link to="/categories/makeup">Makeup</Link>
             <Link to="/categories/accessories">Accessories</Link>
+            <Link to="/categories/shoes">Shoes</Link>
           </div>
         </li>
 
         <li>
           <Link to="/about">About</Link>
+        </li>
+
+        <li>
+          <Link to="/cart">🛒 Cart({cart.length})</Link>
         </li>
 
         <li>

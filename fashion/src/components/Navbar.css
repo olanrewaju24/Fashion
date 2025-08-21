@@ -37,7 +37,7 @@
 
 .nav-links li a {
     text-decoration: none;
-    color: white; /* Change to white for visibility */
+    color: white; 
     font-weight: 500;
     transition: color 0.3s ease;
 }
@@ -54,6 +54,7 @@
 .dropbtn {
     cursor: pointer;
     font-weight: 500;
+    color: white;
 }
 
 .dropdown-content {

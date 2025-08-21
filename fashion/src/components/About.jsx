@@ -1,6 +1,4 @@
 import React from "react";
-
-
 import "./About.css";
 import aboutImage from "../assets/about.avif";
 

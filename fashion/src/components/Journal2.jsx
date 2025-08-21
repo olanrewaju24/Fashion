@@ -36,7 +36,7 @@ const Journal2 = () => {
           <img src={item.image} alt={item.title} />
           <h2>{item.title}</h2>
           <p>{item.content}</p>
-          <button className="view-more-btn">View Details</button>
+          <button className="view-details-btn">View Details</button>
         </div>
       ))}
     </div>

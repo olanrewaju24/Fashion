@@ -30,20 +30,17 @@
   object-fit: cover;
 }
 
-.view-more-btn {
-  background-color: #630835; 
+.view-details-btn {
+  background-color: #630835;
   color: white;
   border: none;
-  padding: 10px 22px;
-  border-radius: 30px;
-  cursor: pointer;
-  font-size: 14px;
-  font-weight: bold;
-  transition: background-color 0.3s ease, transform 0.2s ease;
-  margin: auto;
+  padding: 0.6rem 1.2rem;
+  border-radius: 20px;
+  cursor: not-allowed
+
 }
 
-.view-more-btn:hover {
+.view-details-btn:hover {
   background-color: #b30059;
   transform: translateY(-2px);
 }
