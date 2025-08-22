@@ -34,8 +34,39 @@ const products = [
         name: "Mac lipstick",
         image: "https://i.pinimg.com/736x/70/cd/b2/70cdb22ee78c27a46c4afbdb021e4f74.jpg",
         price: 7
-    }
+    },
 
+    {
+        id : 6,
+        name: "Summer Fridays",
+        image: "https://i.pinimg.com/736x/d9/da/4a/d9da4a7be1b1aa35329ed9ce6545a5ef.jpg",
+        price: 5,
+    },
+
+    {
+        id : 7,
+        name: "Mac Foundation",
+        image: "https://i.pinimg.com/736x/f0/55/96/f05596dcb099fee8c3139ebee9e304b0.jpg",
+        price: 10,
+    },
+{
+        id : 8,
+        name: "SHEGLAM Liquid Blush",
+        image: "https://i.pinimg.com/736x/48/2e/8e/482e8e0b31afefa64f19024af94a2e50.jpg",
+        price: 33
+    },
+{
+        id : 9,
+        name: "Frozen Berry Bear Lip Glaze",
+        image: "https://i.pinimg.com/736x/38/40/7a/38407a9d53fe5c513848a21a7bd58e7a.jpg",
+        price: 20
+    },
+{
+        id : 10,
+        name: "Mac lipstick",
+        image: "https://i.pinimg.com/736x/70/cd/b2/70cdb22ee78c27a46c4afbdb021e4f74.jpg",
+        price: 7
+    },
 ]
 
 

@@ -33,6 +33,36 @@ const products = [
     image: "https://i.pinimg.com/736x/2d/9b/81/2d9b81a16e118a0c8f6d308daa4dfdee.jpg",
     price: 20,
   },
+  {
+    id: 6,
+    name: "Mini Bag",
+    image:"https://i.pinimg.com/736x/64/68/2c/64682ccf9cda937702f681e7d3581f99.jpg",
+    price: 25,
+  },
+  {
+    id: 7,
+    name: "Addisyn Shoulder Bag",
+    image: "https://i.pinimg.com/736x/57/59/c6/5759c6c6f416ea278a7f02fcf68c57b7.jpg ",
+    price: 18,
+  },
+  {
+    id: 8,
+    name: "Mollie Tote Bag",
+    image: "https://i.pinimg.com/736x/76/e3/de/76e3de706a485189cb88dc72c8787c79.jpg",
+    price: 20,
+  },
+  {
+    id: 9,
+    name: "Micheal Kors Bags",
+    image: "https://i.pinimg.com/736x/11/b0/5c/11b05c9d8db58991a3b8c862a4dd99c3.jpg",
+    price: 14,
+  },
+  {
+    id: 10,
+    name: "New Fashion Vintage",
+    image: "https://i.pinimg.com/736x/16/b2/f0/16b2f051aad36c59ca47df4c88493f00.jpg",
+    price: 20,
+  },
 ];
 
 const Bags = () => {

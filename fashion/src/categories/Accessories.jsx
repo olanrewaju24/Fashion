@@ -33,6 +33,36 @@ const products = [
     image: "https://i.pinimg.com/736x/3b/c9/d3/3bc9d3ac6039e9caa6cadbb949bf21ee.jpg",
     price: 20,
   },
+  {
+    id: 6,
+    name: "Buckle Decor Baker Boy Caap",
+    image:"https://i.pinimg.com/1200x/bd/07/f3/bd07f3e82f1586f9e3b73ef7fbc4b4cd.jpg",
+    price: 35,
+  },
+  {
+    id: 7,
+    name: "Cuff",
+    image: "https://i.pinimg.com/736x/26/9e/4c/269e4cdc443640160616589f59d41281.jpg",
+    price: 18,
+  },
+  {
+    id: 8,
+    name: "Earrings",
+    image: "https://i.pinimg.com/736x/de/3f/9e/de3f9ee9d9b6c5d719a652da8417fc91.jpg",
+    price: 5
+  },
+  {
+    id: 9,
+    name: "Eve glasses",
+    image: "https://i.pinimg.com/736x/c3/5f/8a/c35f8af30060b4a49e1717088498d173.jpg",
+    price: 14,
+  },
+  {
+    id: 10,
+    name: "Japanese style Beret",
+    image: "https://i.pinimg.com/736x/a9/2f/37/a92f376bc2d0b9ca708fff5df7b38819.jpg",
+    price: 20,
+  },
 ];
 
 const Accessories = () => {
